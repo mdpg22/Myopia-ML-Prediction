@@ -164,5 +164,5 @@ This project was developed as part of a Master's level Machine Learning
 ## 📬 Author
 
 Manuel de Prado García\
-Master Data Analysis\
+Master Data Analysis in Engineering\
 Specialization in AI, Data Science & Data Anlysis
